@@ -12,7 +12,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="450px">
+      <td width="500px">
         <img src="https://github-readme-stats.vercel.app/api?username=RohithSudhakaran&show_icons=true&theme=radical" width="100%" />
       </td>
       <td width="450px">
