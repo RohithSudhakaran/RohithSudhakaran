@@ -9,18 +9,19 @@
 
 ---
 
-## 🛠️ **Languages & Tools**
+<div align="center">
+  <table>
+    <tr>
+      <td width="450px">
+        <img src="https://github-readme-stats.vercel.app/api?username=RohithSudhakaran&show_icons=true&theme=radical" width="100%" />
+      </td>
+      <td width="450px">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithSudhakaran&layout=compact&theme=radical" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,nodejs,git,github,linux" />
-
----
-
-## 📊 **GitHub Stats**
-
-<img src="https://github-readme-stats.vercel.app/api?username=RohithSudhakaran&show_icons=true&theme=radical" width="48%"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithSudhakaran&layout=compact&theme=radical" width="48%"/>
-
----
 
 ## 🐍 **Contribution**
 
