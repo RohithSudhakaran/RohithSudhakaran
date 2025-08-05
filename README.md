@@ -92,9 +92,12 @@
 ---
 
 <h3 align="center">🔥 Streak Stats</h3>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohithSudhakaran&theme=radical&hide_border=false" />
-</div>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-two-blush.vercel.app?user=RohithSudhakaran&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
