@@ -1,8 +1,18 @@
-<h1 align="center">Hi, I'm Rohith Sudhakaran 👋</h1>
-<h3 align="center">Passionate about building software that solves real-world problems</h3>
+[![](https://visitcount.itsvg.in/api?id=RohithSudhakaran&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Rohith+Sudhakaran!;" />
+</h1>
+
+<div align="center"> 
+ 🧑‍💻 I engineer impactful digital solutions.<br>
+ 💼 Passionate Software Developer focused on solving real-world problems.<br>
+ 🌐 Into Full-Stack Web Development & Software Engineering. <br>
+ 🔗 Portfolio: <a href="#">Coming Soon</a> <br><br>
+ Programmer 💻 | Developer 🌐 | Creator 🚀
+</div>
+
 <br>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,95 +26,35 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-
-<h3>Languages and Tools:</h3>
-
-<p align="center">
-  <!-- C++ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-
-  <!-- Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-
-  <!-- Express.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" style="filter: brightness(1.5);" />
-  <img width="12" />
-
-  <!-- MongoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-
-  <!-- Go (Golang) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="golang logo" />
-  <img width="12" />
-
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-
-  <!-- Custom GitHub -->
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" height="40" alt="GitHub white logo"/>
-
-
-  <img width="12" />
-
-  <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
-  <img width="12" />
-
-  <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-
-  <!-- Bootstrap -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-
-  <!-- Tailwind CSS -->
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwind logo" />
-  <img width="12" />
-
-  <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-
-  <!-- Firebase -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-</p>
-
-
+<h1 align="center">🧠 Tech Stack</h1>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,spring,maven,react,next,tailwind,angular,typescript,flask,nodejs,express,fastapi,mysql,postgres,ubuntu,go,bash,haskell,scala,solidity,docker,kubernetes,nginx,git,githubactions,redis,grafana,ansible" />
+</div>
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohithSudhakaran&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithSudhakaran&layout=compact&theme=radical" height="150" />
-</div>
+<h1 align="center">📈 GitHub Contributions Graph</h1>
+
+<p align="center">
+  <a href="https://github.com/RohithSudhakaran">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohithSudhakaran&theme=github-dark" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats:</h3>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RohithSudhakaran&theme=radical&show_icons=true&hide=prs&count_private=true" width="460"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithSudhakaran&layout=compact&theme=radical" width="340"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
